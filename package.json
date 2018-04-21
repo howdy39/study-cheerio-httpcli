@@ -1,0 +1,27 @@
+{
+  "name": "study-cheerio-httpcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "prettier --write index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/study-cheerio-httpcli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howdy39/study-cheerio-httpcli/issues"
+  },
+  "homepage": "https://github.com/howdy39/study-cheerio-httpcli#readme",
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  },
+  "dependencies": {
+    "cheerio-httpcli": "^0.7.2"
+  }
+}
